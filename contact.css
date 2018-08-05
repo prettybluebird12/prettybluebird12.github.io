@@ -1,0 +1,28 @@
+#row1{
+    background-color:red;
+    font-family: 'Cinzel', serif;
+    font-size:40px;
+    border:solid black;
+    padding:1px;
+    margin:15px;
+}
+.row2{
+    font-size: 35px;
+    font-family: 'Alegreya', serif;
+    font-weight:bold;
+     border:solid black;
+     padding:1px;
+    margin:15px;
+     
+}
+body{
+    text-align:center;
+    border:solid black;
+}
+
+img{
+    border:dashed black;
+}
+a{
+    font-size:25px;
+}
